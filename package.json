@@ -1,0 +1,12 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dannash100/functional-programming.git",
+  "author": "dannash100 <danster15@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "ramda": "^0.25.0"
+  }
+}
